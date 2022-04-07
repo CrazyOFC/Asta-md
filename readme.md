@@ -23,7 +23,7 @@ em contato comigo
 </div>
 <p align="center">
 <h5 align="center">           
-💮 Meu Whatsapp 💮
+💮 Meu Whatsapp ( Clique ) 💮
 https://wa.me/556699587805
 
 <p align="center">
