@@ -23,8 +23,7 @@ em contato comigo
 <h5 align="center">           
 💮Meu Whatsapp💮
 https://wa.me/556699587805
-<div align="center">
-</div>
+
 <p align="center">
 <h5 align="center">           
 💮Baixar Script Da Kanna ( Clique )💮
