@@ -31,7 +31,8 @@ https://www.mediafire.com/file/glgofh86uwpi9n9/Kanna-md.zip/file
 
 <p align="center">
 <h5 align="center">           
-💮Baixar Script Da Kanna Sem A Node Modules ( Clique )💮
+💮Baixar Script Da Kanna Sem A Node Modules
+( Clique )💮
 https://www.mediafire.com/file/cpvnon29whqk14m/Kanna-md-sem-node-modules.zip/file
 
 <p align="center">
