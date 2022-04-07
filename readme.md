@@ -19,7 +19,6 @@ node index.js, sh start, npm start
 Caso tenha dificuldade entre
 em contato comigo
 ```
-
 <div align="center">
 </div>
 <p align="center">
