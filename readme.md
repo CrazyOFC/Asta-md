@@ -28,20 +28,20 @@ https://wa.me/556699587805
 
 <p align="center">
 <h5 align="center">
-💮 Meu canal ( Clique ) 💮
+💮 Meu Canal ( Clique ) 💮
 https://youtube.com/channel/UCbVpZEEssQ6fU_Wke6J_Sjw
 
 <p align="center">
 <h5 align="center">           
 💮 Baixar Script Da Kanna ( Clique ) 💮
-https://www.mediafire.com/file/glgofh86uwpi9n9/Kanna-md.zip/file
+https://www.mediafire.com/file/c2u3iygf4o8a47v/Kanna-md.zip/file
 
 <p align="center">
 <h5 align="center">           
 💮 Baixar Script Da Kanna Sem A Node Modules
 
 ( Clique ) 💮
-https://www.mediafire.com/file/cpvnon29whqk14m/Kanna-md-sem-node-modules.zip/file
+https://www.mediafire.com/file/zq2lzo0t8lfy1wp/Kanna-md_sem_node_modules.zip/file
 
 <p align="center">
 <h5 align="center">           
