@@ -27,6 +27,11 @@ em contato comigo
 https://wa.me/556699587805
 
 <p align="center">
+<h5 align="center">
+💮 Meu canal ( Clique ) 💮
+https://youtube.com/channel/UCbVpZEEssQ6fU_Wke6J_Sjw
+
+<p align="center">
 <h5 align="center">           
 💮 Baixar Script Da Kanna ( Clique ) 💮
 https://www.mediafire.com/file/glgofh86uwpi9n9/Kanna-md.zip/file
