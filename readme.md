@@ -19,8 +19,7 @@ node index.js, sh start, npm start
 Caso tenha dificuldade entre
 em contato comigo
 ```
-<div align="center">
-</div>
+
 <p align="center">
 <h5 align="center">           
 🌟 Meu Whatsapp ( Clique ) 🌟
@@ -52,3 +51,22 @@ https://www.mediafire.com/file/0vm0v0qcfvjq2u6/MT+Manager_2.10.4-beta.apk/file
 <h5 align="center">           
 🌟 Baixar Acode Pro ( Clique ) 🌟
 https://www.mediafire.com/file/39o3dijk4tqyk2f/Acode_base.apk/file
+
+```
+Cases novas:
+case de attp -> fig piscante
+case de ttp -> fig com texto preto
+case de cttDono -> vcard com o número do dono
+case de perfil -> informações do usuario ( precisa add mais coisas )
+case de sair -> número do bot saí do grupo ( apenas dono )
+case de ping -> número do bot manda tempo de resposta ( apenas dono )
+
+Recursos novos:
+novo layout de menu
+nova personagem tema ( star butterfly )
+menu com audio & gif
+novo texto após a utilização de algum arquivo .sh
+nova cor do banner ( colorida )
+nova const time sleep ( exemplo de usar no menu )
+nova função de registro
+```
