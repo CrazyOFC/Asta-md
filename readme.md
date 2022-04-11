@@ -33,15 +33,8 @@ https://youtube.com/channel/UCbVpZEEssQ6fU_Wke6J_Sjw
 
 <p align="center">
 <h5 align="center">           
-🌟 Baixar Script Da Kanna ( Clique ) 🌟
-https://www.mediafire.com/file/c2u3iygf4o8a47v/Kanna-md.zip/file
-
-<p align="center">
-<h5 align="center">           
-🌟 Baixar Script Da Kanna Sem A Node Modules
-
-( Clique ) 🌟
-https://www.mediafire.com/file/zq2lzo0t8lfy1wp/Kanna-md_sem_node_modules.zip/file
+🌟 Baixar Script Da Star ( Clique ) 🌟
+https://www.mediafire.com/file/bvcqjxxx9lx3hbs/Star-md.zip/file
 
 <p align="center">
 <h5 align="center">           
