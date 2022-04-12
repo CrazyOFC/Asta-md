@@ -54,6 +54,7 @@ https://www.mediafire.com/file/39o3dijk4tqyk2f/Acode_base.apk/file
 
 ```
 Cases novas:
+case de toumg -> extraí imagem de fig
 case de attp -> fig piscante
 case de ttp -> fig com texto preto
 case de cttDono -> vcard com o número do dono
@@ -67,6 +68,7 @@ nova personagem tema ( star butterfly )
 menu com audio & gif
 novo texto após a utilização de algum arquivo .sh
 nova cor do banner ( colorida )
-nova const time sleep ( exemplo de usar no menu )
 nova função de registro
+nova função de anti-spam
+nova função de resposta aleatoria de espera
 ```
