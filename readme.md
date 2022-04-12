@@ -1,3 +1,5 @@
+# Star-md
+
 <p align="center">
 <a href="https://ibb.co/fFnHRH9"><img src="https://i.ibb.co/fFnHRH9/Screenshot-20220411-121623.png" alt="Screenshot-20220411-121623" border="0"></a>
 
@@ -19,38 +21,18 @@ node index.js, sh start, npm start
 Caso tenha dificuldade entre
 em contato comigo
 ```
+           
+[🌟 Meu Whatsapp ( Clique ) 🌟](https://wa.me/556699587805)
 
-<p align="center">
-<h5 align="center">           
-🌟 Meu Whatsapp ( Clique ) 🌟
-https://wa.me/556699587805
+[🌟 Meu Canal ( Clique ) 🌟](https://youtube.com/channel/UCbVpZEEssQ6fU_Wke6J_Sjw)
+           
+[🌟 Baixar Script Da Star ( Clique ) 🌟](https://www.mediafire.com/file/bvcqjxxx9lx3hbs/Star-md.zip/file)
 
-<p align="center">
-<h5 align="center">
-🌟 Meu Canal ( Clique ) 🌟
-https://youtube.com/channel/UCbVpZEEssQ6fU_Wke6J_Sjw
+[🌟 Baixar Termux 118 ( Clique ) 🌟](https://www.apkmirror.com/apk/fredrik-fornwall/termux-fdroid-version/termux-fdroid-version-0-118-0-release/termux-fdroid-version-0-118-0-android-apk-download/download/)
 
-<p align="center">
-<h5 align="center">           
-🌟 Baixar Script Da Star ( Clique ) 🌟
-https://www.mediafire.com/file/bvcqjxxx9lx3hbs/Star-md.zip/file
+[🌟 Baixar MT Manager ( Clique ) 🌟](https://www.mediafire.com/file/0vm0v0qcfvjq2u6/MT+Manager_2.10.4-beta.apk/file)
 
-<p align="center">
-<h5 align="center">           
-🌟 Baixar Termux 118 ( Clique ) 🌟
-https://www.apkmirror.com/apk/fredrik-fornwall/termux-fdroid-version/termux-fdroid-version-0-118-0-release/termux-fdroid-version-0-118-0-android-apk-download/download/
-
-<p align="center">
-<h5 align="center">           
-🌟 Baixar MT Manager ( Clique ) 🌟
-https://www.mediafire.com/file/0vm0v0qcfvjq2u6/MT+Manager_2.10.4-beta.apk/file
-
-<div align="center">
-</div>
-<p align="center">
-<h5 align="center">           
-🌟 Baixar Acode Pro ( Clique ) 🌟
-https://www.mediafire.com/file/39o3dijk4tqyk2f/Acode_base.apk/file
+[🌟 Baixar Acode Pro ( Clique ) 🌟](https://www.mediafire.com/file/39o3dijk4tqyk2f/Acode_base.apk/file)
 
 ```
 Cases novas:
