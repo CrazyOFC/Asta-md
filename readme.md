@@ -28,13 +28,15 @@ em contato comigo
 [🌀 Meu Whatsapp ( Clique ) 🍃](https://wa.me/556699587805)
 
 [🍃 Meu Canal ( Clique ) 🌀](https://youtube.com/channel/UCbVpZEEssQ6fU_Wke6J_Sjw)
+
+[🌀 Grupo de bots ( Clique ) 🍃](https://chat.whatsapp.com/DNuCuygF9gnHhM9YXKPuOV)
            
-[🌀 Baixar Script Da Demons-Base ( Clique ) 🍃](https://www.mediafire.com/file/prx0mfegctvrema/Demons-Base+3.0.zip/file)
+[🍃 Baixar Script Da Demons-Base ( Clique ) 🌀](https://www.mediafire.com/file/prx0mfegctvrema/Demons-Base+3.0.zip/file)
 
-[🍃 Baixar Termux 118 ( Clique ) 🌀](https://www.apkmirror.com/apk/fredrik-fornwall/termux-fdroid-version/termux-fdroid-version-0-118-0-release/termux-fdroid-version-0-118-0-android-apk-download/download/)
+[🌀 Baixar Termux 118 ( Clique ) 🍃](https://www.apkmirror.com/apk/fredrik-fornwall/termux-fdroid-version/termux-fdroid-version-0-118-0-release/termux-fdroid-version-0-118-0-android-apk-download/download/)
 
-[🌀 Baixar MT Manager ( Clique ) 🍃](https://www.mediafire.com/file/0vm0v0qcfvjq2u6/MT+Manager_2.10.4-beta.apk/file)
+[🍃 Baixar MT Manager ( Clique ) 🌀](https://www.mediafire.com/file/0vm0v0qcfvjq2u6/MT+Manager_2.10.4-beta.apk/file)
 
-[🍃 Baixar Acode Pro ( Clique ) 🌀](https://www.mediafire.com/file/39o3dijk4tqyk2f/Acode_base.apk/file)
+[🌀 Baixar Acode Pro ( Clique ) 🍃](https://www.mediafire.com/file/39o3dijk4tqyk2f/Acode_base.apk/file)
 
 </h5>
