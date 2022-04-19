@@ -1,5 +1,7 @@
 # Demons-Base
 
+<p> Atenção está versão está em desenvolvimento, caso encontre algum bug me avise, please !!!
+
 <p align="center">
 <a href="https://ibb.co/bJmB40f"><img src="https://i.ibb.co/bJmB40f/1650235605754-2.png" alt="1650235605754-2" border="0"></a>
 
@@ -31,7 +33,7 @@ em contato comigo
 
 [🌀 Grupo de bots ( Clique ) 🍃](https://chat.whatsapp.com/DNuCuygF9gnHhM9YXKPuOV)
            
-[🍃 Baixar Script Da Demons-Base ( Clique ) 🌀](https://www.mediafire.com/file/prx0mfegctvrema/Demons-Base+3.0.zip/file)
+[🍃 Baixar Script Da Demons-Base ( Clique ) 🌀](https://www.mediafire.com/file/1q78tf5sj81zp30/Demons-Base+3.0.zip/file)
 
 [🌀 Baixar Termux 118 ( Clique ) 🍃](https://www.apkmirror.com/apk/fredrik-fornwall/termux-fdroid-version/termux-fdroid-version-0-118-0-release/termux-fdroid-version-0-118-0-android-apk-download/download/)
 
